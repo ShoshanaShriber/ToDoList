@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\TodoApi\\",
+  "WorkspaceRootPath": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|g:\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|c:\\users\\the user\\desktop\\p\\todoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|c:\\users\\the user\\desktop\\p\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|c:\\users\\the user\\desktop\\p\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|g:\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|c:\\users\\the user\\desktop\\p\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|g:\\todoapi\\todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|c:\\users\\the user\\desktop\\p\\todoapi\\todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|solutionrelative:todoapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|g:\\todoapi\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|c:\\users\\the user\\desktop\\p\\todoapi\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|solutionrelative:tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|g:\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A62F490E-2B08-4A0B-8D56-69378EE33261}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,36 +39,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-18T16:25:49.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\TodoApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "G:\\TodoApi\\appsettings.json*",
-              "RelativeToolTip": "appsettings.json*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-18T12:14:17.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "G:\\TodoApi\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "G:\\TodoApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-18T12:13:11.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T12:13:11.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TodoApi",
-              "DocumentMoniker": "G:\\TodoApi\\TodoApi.csproj",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\TodoApi.csproj",
               "RelativeDocumentMoniker": "TodoApi.csproj",
-              "ToolTip": "G:\\TodoApi\\TodoApi.csproj",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\TodoApi.csproj",
               "RelativeToolTip": "TodoApi.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-18T12:13:10.26Z",
@@ -72,24 +88,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\TodoApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "G:\\TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAwwD0AAAABAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T12:05:19.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ToDoDbContext.cs",
-              "DocumentMoniker": "G:\\TodoApi\\ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\ToDoDbContext.cs",
               "RelativeDocumentMoniker": "ToDoDbContext.cs",
-              "ToolTip": "G:\\TodoApi\\ToDoDbContext.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\p\\TodoApi\\ToDoDbContext.cs",
               "RelativeToolTip": "ToDoDbContext.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAowC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
